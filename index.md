@@ -1,5 +1,5 @@
 Group                     | Domain          | First Appearance
 ------------------------- | --------------- | ----------------
-ShinRa                    | Mako Reactors   | FFVII
+ShinRa                    | Mako <br>Reactors   | FFVII
 Moogles                   | MogNet          | FFIII
-Vana'diel Vana'diel Vana'diel Chocobo <br>Society | Chocobo ChocoboChocoboRaising | FFXI:TOAU
+Vana'diel <br>Vana'diel Vana'diel Chocobo <br>Society | Chocobo ChocoboChocoboRaising | FFXI:TOAU
